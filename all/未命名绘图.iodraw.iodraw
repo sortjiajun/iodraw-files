@@ -114,17 +114,6 @@
         <mxCell id="23" parent="1" vertex="1">
           <mxGeometry x="1016" y="1457" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="Background" id="24">
-          <mxCell style="vsdxID=22;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.01;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="10" target="3" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint y="-13" as="offset" />
-              <Array as="points">
-                <mxPoint x="1016" y="1571.5" />
-                <mxPoint x="1016" y="1571.5" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <mxCell id="BAs92CoDwKOtgfeJ1iHY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="9" target="3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
