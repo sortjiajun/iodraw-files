@@ -178,7 +178,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="BAs92CoDwKOtgfeJ1iHY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9" target="3">
+        <mxCell id="BAs92CoDwKOtgfeJ1iHY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="9" target="3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="574" y="1455" />
