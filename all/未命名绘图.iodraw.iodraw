@@ -41,13 +41,13 @@
             <mxPoint x="450" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BAs92CoDwKOtgfeJ1iHY-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BAs92CoDwKOtgfeJ1iHY-44">
+        <mxCell id="BAs92CoDwKOtgfeJ1iHY-46" value="传送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BAs92CoDwKOtgfeJ1iHY-44">
           <mxGeometry x="0.0132" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BAs92CoDwKOtgfeJ1iHY-45" value="验证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="488" width="50" height="30" as="geometry" />
+        <mxCell id="BAs92CoDwKOtgfeJ1iHY-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="488" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
