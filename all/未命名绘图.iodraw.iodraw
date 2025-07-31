@@ -14,16 +14,16 @@
           <mxGeometry x="520" y="550" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6vBUOsaWaXJZSKTZ792Y-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;班&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;级&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;信&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="360" y="550" width="50" height="160" as="geometry" />
+          <mxGeometry x="320" y="550" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6vBUOsaWaXJZSKTZ792Y-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;院&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;系&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;信&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="280" y="550" width="50" height="160" as="geometry" />
+          <mxGeometry x="250" y="550" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6vBUOsaWaXJZSKTZ792Y-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
           <mxGeometry x="110" y="550" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6vBUOsaWaXJZSKTZ792Y-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;教&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;师&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="200" y="550" width="50" height="160" as="geometry" />
+          <mxGeometry x="180" y="550" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6vBUOsaWaXJZSKTZ792Y-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;好&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;人&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;好&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;事&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;证&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;明&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
           <mxGeometry x="680" y="550" width="50" height="160" as="geometry" />
