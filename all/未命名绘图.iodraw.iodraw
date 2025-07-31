@@ -26,7 +26,7 @@
         <mxCell id="BAs92CoDwKOtgfeJ1iHY-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;WEB服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BAs92CoDwKOtgfeJ1iHY-37" value="数据库检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BAs92CoDwKOtgfeJ1iHY-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据库检索&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BAs92CoDwKOtgfeJ1iHY-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.178;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.35;exitY=-0.056;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="BAs92CoDwKOtgfeJ1iHY-37" target="BAs92CoDwKOtgfeJ1iHY-36">
